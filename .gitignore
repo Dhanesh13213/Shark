@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 *.log
 .env
+=======
+# Ignore system junk
+*.log
+*.dat
+*.ini
+.DS_Store
+Thumbs.db
+AppData/
+Documents/
+Downloads/
+Videos/
+Music/
+Pictures/
+Saved Games/
+NTUSER*
+*.regtrans-ms
+.vscode/
+>>>>>>> 5654e6f375c279a68b5cdaaf58a2b64df4939116
