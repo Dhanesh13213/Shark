@@ -1,0 +1,16 @@
+# Ignore system junk
+*.log
+*.dat
+*.ini
+.DS_Store
+Thumbs.db
+AppData/
+Documents/
+Downloads/
+Videos/
+Music/
+Pictures/
+Saved Games/
+NTUSER*
+*.regtrans-ms
+.vscode/
